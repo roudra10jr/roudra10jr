@@ -1,16 +1,87 @@
-## Hi there 👋
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aparup+Barua;MERN+Stack+Developer;CSE+Student;Love+to+Build+Cool+Projects+💻;Always+Learning+New+Things+🚀">
+</p>
 
-<!--
-**roudra10jr/roudra10jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🎓 CSE Student  
+💻 MERN Stack Developer  
+🔥 Passionate about building full-stack applications  
+📧 Reach me at: <a href="mailto:roudra10jr@gmail.com">roudra10jr@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Tech Stack (with Icons)
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,tailwind,react" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,firebase" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌱 **Eco-Pin Client**
+🔗 [Client Repository](https://github.com/roudra10jr/a10-eco-pin-client)
+
+### ⚙️ **Eco-Pin Server**
+🔗 [Server Repository](https://github.com/roudra10jr/a10-eco-pin-server)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roudra10jr&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roudra10jr&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra10jr&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roudra10jr&theme=tokyo-night" alt="graph"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/roudra10jr/count.svg" />
+</p>
+
+---
+
+## ✨ Thank You for Visiting!
