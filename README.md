@@ -1,6 +1,6 @@
-<!-- Animated Typing Banner -->
+<!-- Animated Typing Banner (Working) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aparup+Barua;MERN+Stack+Developer;CSE+Student;Love+to+Build+Cool+Projects+💻;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Aparup+Barua;MERN+Stack+Developer;CSE+Student;Love+to+Build+Cool+Projects+💻;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -8,12 +8,12 @@
 ## 🚀 About Me
 🎓 CSE Student  
 💻 MERN Stack Developer  
-🔥 Passionate about building full-stack applications  
-📧 Reach me at: <a href="mailto:roudra10jr@gmail.com">roudra10jr@gmail.com</a>
+🔥 Passionate about building intuitive full-stack applications  
+📧 Email: <a href="mailto:roudra10jr@gmail.com">roudra10jr@gmail.com</a>
 
 ---
 
-## 💡 Tech Stack (with Icons)
+## 💡 Tech Stack
 
 ### **Languages**
 <p>
@@ -45,10 +45,10 @@
 ## 📌 Featured Projects
 
 ### 🌱 **Eco-Pin Client**
-🔗 [Client Repository](https://github.com/roudra10jr/a10-eco-pin-client)
+🔗 https://github.com/roudra10jr/a10-eco-pin-client
 
 ### ⚙️ **Eco-Pin Server**
-🔗 [Server Repository](https://github.com/roudra10jr/a10-eco-pin-server)
+🔗 https://github.com/roudra10jr/a10-eco-pin-server
 
 ---
 
@@ -73,6 +73,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roudra10jr&theme=tokyo-night" alt="graph"/>
 </p>
+
 
 ---
 
